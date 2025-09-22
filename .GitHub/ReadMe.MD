@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnneBellaBots/NewRepo/main/assets/YourImage.png" 
+  <img src="https://raw.githubusercontent.com/AnneBellaBots/NewRepo/main/assets/IMG_20250920_212139_438.png" 
 alt="ShrutixMusic Bot Logo" width="500px">
 </p>
 
