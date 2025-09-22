@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NoxxOP/ShrutixMusic/main/ShrutixMusic/assets/ShrutixMusic.png" alt="ShrutixMusic Bot Logo" width="500px">
+  <img src="https://graph.org/file/ea9a8d9b6ec52ab70a330-204e87bf59781015e7.jpg" alt="ShrutixMusic Bot Logo" width="500px">
 </p>
 
 <h1 align="center">🎵 AnneBellaXmusic Bot 🎵</h1>
