@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/NoxxOP/ShrutixMusic/main/ShrutixMusic/assets/ShrutixMusic.png" alt="ShrutixMusic Bot Logo" width="500px">
 </p>
 
-<h1 align="center">🎵 ShrutixMusic Bot 🎵</h1>
+<h1 align="center">🎵 AnneBellaXmusic Bot 🎵</h1>
 
 <p align="center">
   <b>Ultimate Telegram Music Bot with Superior Audio Quality & Advanced Music Features</b>
