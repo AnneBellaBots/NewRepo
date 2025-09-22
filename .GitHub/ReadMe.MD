@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="content://media/external/downloads/1000028479" alt="ShrutixMusic Bot Logo" width="500px">
+  <img src="https://raw.githubusercontent.com/AnneBellaBots/NewRepo/main/assets/YourImage.png" 
+alt="ShrutixMusic Bot Logo" width="500px">
 </p>
 
 <h1 align="center">🎵 AnneBellaXmusic Bot 🎵</h1>
